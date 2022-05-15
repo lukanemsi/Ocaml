@@ -1,0 +1,13 @@
+tree
+gun
+car
+home
+cat
+killer
+guitar
+laptop
+programming
+ocaml
+java
+metallica
+elephant
